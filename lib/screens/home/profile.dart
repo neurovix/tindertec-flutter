@@ -532,7 +532,7 @@ class _ProfilePageState extends State<ProfilePage>
                                             Text('Nombre: Fernando Vazquez'),
                                             SizedBox(height: 8),
                                             Text(
-                                              'Email: fervazquez@neurovix.com.mx',
+                                              'Email: fernandovazquez.favm@gmail.com',
                                             ),
                                             SizedBox(height: 8),
                                             Text('Posicion: CEO & Programador'),

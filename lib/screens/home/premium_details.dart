@@ -727,7 +727,7 @@ class _PremiumDetailsScreenState extends State<PremiumDetailsScreen> {
                                 recognizer: TapGestureRecognizer()
                                   ..onTap = () {
                                     _openLink(
-                                      'https://neurovix.com.mx/apps/conectatec/eula',
+                                      'https://neurovix.app/apps/conectatec/eula',
                                     );
                                   },
                               ),
@@ -741,7 +741,7 @@ class _PremiumDetailsScreenState extends State<PremiumDetailsScreen> {
                                 recognizer: TapGestureRecognizer()
                                   ..onTap = () {
                                     _openLink(
-                                      'https://neurovix.com.mx/apps/conectatec/privacy_policy',
+                                      'https://neurovix.app/apps/conectatec/privacy_policy',
                                     );
                                   },
                               ),

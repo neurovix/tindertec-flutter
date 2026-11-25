@@ -374,8 +374,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 📧 Contact
 **ConectaTec Team**
 
-- Website: [https://neurovix.com.mx/apps/seguratec](#) (coming soon)
-- Email: fervazquez@neurovix.com.mx
+- Website: [https://neurovix.app/apps/seguratec](#) (coming soon)
+- Email: fernandovazquez.favm@gmail.com
 - GitHub: [github.com/neurovix/cargatec](#)
 
 ---
