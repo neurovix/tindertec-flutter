@@ -741,7 +741,7 @@ class _PremiumDetailsScreenState extends State<PremiumDetailsScreen> {
                                 recognizer: TapGestureRecognizer()
                                   ..onTap = () {
                                     _openLink(
-                                      'https://neurovix.app/apps/conectatec/privacy_policy',
+                                      'https://neurovix.app/apps/conectatec/privacy-policy',
                                     );
                                   },
                               ),
